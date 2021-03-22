@@ -1,0 +1,17 @@
+#All CSVs
+Cities.csv
+WRegularSeasonCompactResults.csv
+Conferences.csv
+WRegularSeasonDetailedResults.csv
+WGameCities.csv
+WSampleSubmissionStage1.csv
+WNCAATourneyCompactResults.csv
+WSeasons.csv
+WNCAATourneyDetailedResults.csv
+WTeamConferences.csv
+WNCAATourneySeeds.csv
+WTeamSpellings.csv
+WNCAATourneySlots.csv
+WTeams.csv
+WSampleSubmissionStage2.csv
+SRS.ipynb
